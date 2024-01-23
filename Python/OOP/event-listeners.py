@@ -14,8 +14,7 @@ def turn_left():
 
 def turn_right():
     timmy.right(10)
-# def counter_clockwise()
-    
+# def counter_clockwise()  
 def clearSpace():
     timmy.clear()
 

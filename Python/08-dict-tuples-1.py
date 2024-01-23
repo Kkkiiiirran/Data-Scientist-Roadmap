@@ -48,3 +48,4 @@ elif user == "query":
     query()
 elif user == "print":
     print_all()
+

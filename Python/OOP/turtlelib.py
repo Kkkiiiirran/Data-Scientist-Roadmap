@@ -91,11 +91,13 @@ timmy.pendown()
 # timmy.forward(5)
 # timmy.circle(100)
 timmy.speed("fastest")
-def sp(gap):
-    for i in range(int(360/gap)):
-        timmy.color(colorchange())
-        timmy.circle(100)
-        timmy.setheading(timmy.heading() + gap)
+# def sp(gap):
+#     for i in range(int(360/gap)):
+#         timmy.color(colorchange())
+#         timmy.circle(100)
+#         timmy.setheading(timmy.heading() + gap)
 
-sp(4)
+# sp(4)
+
+
 screen.mainloop()
