@@ -1,3 +1,9 @@
-Approach
+## Approach
 
-> hdsjcsdkj
+* 1. start by sorting the array
+* 2. taking two pointers both strating from 0
+* 3. maintaining the cummulative sum till i-j
+* 4. incrementing i whenver target * windowsize - cummulative sum becomes more than the k number of operations allowed
+* 5. repeat 4 till i becomes less than k
+* 6. keep maintaining ans as max of window size
+

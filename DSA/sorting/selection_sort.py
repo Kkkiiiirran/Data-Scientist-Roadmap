@@ -34,12 +34,10 @@ for i in range(len(b)):
     if flag == False:
         break
 
-# for i in range(len(a)):
-
-
 print(cnt)
-
 print(b)
+
+
 
 
         
